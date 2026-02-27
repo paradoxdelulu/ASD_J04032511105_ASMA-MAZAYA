@@ -40,9 +40,9 @@ class linked_list:
     def display(self):
         temp = self.head
         while temp:
-            print(temp.data, end=" -> ")
+            print(temp.data, end = " -> ")
             temp = temp.next
-        print("None")
+        print("Null")
 
 
 # ========== TEST ==========

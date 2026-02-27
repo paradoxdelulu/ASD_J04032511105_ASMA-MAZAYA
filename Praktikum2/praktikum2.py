@@ -4,7 +4,7 @@
 #=============================================================================
 
 #variabel menyimpan data file
-nama_file = "data_mahasiswa.txt"
+nama_file = "Praktikum2/data_mahasiswa.txt"
 
 def baca_data(nama_file):
     data_dict = {} #inisialisasu data dictionary kosong
