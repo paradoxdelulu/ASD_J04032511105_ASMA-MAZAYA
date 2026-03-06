@@ -1,3 +1,9 @@
+#=============================================================
+# Nama  : Asma Mazaya
+# NIM   : J0403251105
+# Kelas : A1
+#=============================================================
+
 #Praktikum 1 : Konsep ADT dan File Handling
 #Latihan dasar 1 : Membaca seluruh isi file data
 
