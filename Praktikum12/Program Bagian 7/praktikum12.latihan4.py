@@ -45,12 +45,6 @@ print("Jarak terpendek dari Gerbang Kampus:")
 for lokasi, jarak in hasil.items():
     print(lokasi, "=", jarak, "menit")
 
-# Pertanyaan Analisis:
-# 1. Lokasi mana yang paling dekat dari Gerbang?
-# 2. Berapa waktu tempuh terpendek dari Gerbang ke Aula?
-# 3. Apakah jalur langsung selalu menghasilkan jarak paling kecil? Jelaskan.
-# 4. Mengapa Dijkstra cocok digunakan pada kasus lokasi kampus ini?
-
 # Jawaban Analisis:
 # 1. Lokasi yang paling dekat dari Gerbang adalah Kantin dengan waktu tempuh 2 menit.
 # 2. Waktu tempuh terpendek dari Gerbang ke Aula adalah 7 menit melalui jalur Gerbang -> Kantin -> Lab -> Aula.
